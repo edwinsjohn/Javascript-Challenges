@@ -1,0 +1,20 @@
+.main-container {
+  text-align: center;
+  margin: 0 auto;
+  width: 80%;
+
+  padding: 40px;
+}
+.button-btn {
+  padding: 10px;
+}
+.flex-box-container-1 {
+  display: flex;
+  border: 1px solid black;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 30px;
+}
+img {
+  padding: 10px;
+}
